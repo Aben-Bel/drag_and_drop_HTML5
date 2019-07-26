@@ -1,0 +1,22 @@
+body{
+    background:lightblue;
+    width:100%;
+}
+li{
+    background:rgb(133, 133, 196);
+    margin:20px;
+}
+.holdbox{
+    float:left;
+    margin:30px;
+    padding:20px;
+    width:40%;
+    background: rgb(133, 133, 196);
+}
+.dropzone{
+    float:left;
+    background: lightblue;
+    width:100%;
+}
+
+
